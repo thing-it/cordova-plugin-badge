@@ -27,9 +27,7 @@
 
     <description>Shows the count of unread messages as a badge on the app icon.</description>
 
-    <repo>https://github.com/katzer/cordova-plugin-badge.git</repo>
-
-    <issue>https://github.com/katzer/cordova-plugin-badge/issues</issue>
+    <repo>https://github.com/thing-it/cordova-plugin-badge</repo>
 
     <keywords>appplant, badge, shortcutbadger</keywords>
 
